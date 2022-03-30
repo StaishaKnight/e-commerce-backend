@@ -1,0 +1,24 @@
+{
+  "name": "e-commerce-backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/StaishaKnight/e-commerce-backend.git"
+  },
+  "author": "Staisha Knight",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/StaishaKnight/e-commerce-backend/issues"
+  },
+  "homepage": "https://github.com/StaishaKnight/e-commerce-backend#readme",
+  "dependencies": {
+    "express": "^4.17.3",
+    "mysql2": "^2.3.3",
+    "sequelize": "^6.17.0"
+  }
+}
