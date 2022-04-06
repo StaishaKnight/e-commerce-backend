@@ -33,9 +33,10 @@ This repo is not to be deployed, if you wanted to, you could by doing the follow
 ```
 
 ## Github:
- [Github repository]
-
- [Walktrhough Video]
+ [Github repository]  https://github.com/StaishaKnight/e-commerce-backend
+ 
+ [Walktrhough Video] https://bootcampspot.instructuremedia.com/embed/dd24e773-4229-4335-89e8-b0f1de5871aa
+ 
 
 ## Tests:
 Tested restful API calls with insomnia
